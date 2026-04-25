@@ -13,6 +13,7 @@ https://iplists.firehol.org/files/dyndns_ponmocup.ipset
 https://iplists.firehol.org/files/et_block.netset
 https://iplists.firehol.org/files/et_compromised.ipset
 https://iplists.firehol.org/files/et_spamhaus.netset
+https://iplists.firehol.org/files/et_tor.ipset
 https://iplists.firehol.org/files/firehol_level1.netset
 https://iplists.firehol.org/files/firehol_level2.netset
 https://iplists.firehol.org/files/firehol_level3.netset
@@ -34,5 +35,4 @@ https://raw.githubusercontent.com/stamparm/ipsum/master/levels/1.txt
 https://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt
 https://sigs.interserver.net/iprbl.txt
 https://www.blocklist.de/downloads/export-ips_all.txt
-https://www.talosintelligence.com/documents/ip-blacklist
 https://voipbl.org/update
